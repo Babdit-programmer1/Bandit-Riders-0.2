@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Bandit Riders",
+  "description": "Smart Dispatch Delivery Web Application",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

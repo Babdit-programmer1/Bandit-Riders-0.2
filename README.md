@@ -1,11 +1,19 @@
-<div align="center">
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+# 🚴‍♂️ BANDIT RIDERS
+**Premium Dispatch & Logistics Simulation**
 
-  <h1>Built with AI Studio</h2>
+Built for high-performance urban hubs. This application features a dual-interface for Senders and Riders with live telemetry simulation and wallet-based settlements.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## 🚀 Deployment
+This app is optimized for Vercel. 
+- Build Command: `npm run build`
+- Output Directory: `dist`
+- Framework Preset: `Vite`
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+## 🛠 Features
+- **Naira Currency (₦)** integration.
+- **Dynamic Surge Pricing** logic.
+- **Role-Based Auth** (Sender vs Rider).
+- **Radar Match** simulation for finding riders.
+- **Live Telemetry HUD** in tracking view.
+- **Persistent Wallet** system.
